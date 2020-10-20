@@ -1,3 +1,6 @@
 Monkey
 Crocodile
 elephant
+Zebra
+Ant
+Camel
